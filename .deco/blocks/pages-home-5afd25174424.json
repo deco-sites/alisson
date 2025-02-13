@@ -11,8 +11,7 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Faq.tsx",
-        "title": "CONTATO"
+        "__resolveType": "site/sections/BlogPosts.tsx"
       }
     }
   ],
