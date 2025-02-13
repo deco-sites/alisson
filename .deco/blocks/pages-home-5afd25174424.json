@@ -3,16 +3,17 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "Header"
-    },
-    {
       "__resolveType": "site/sections/Hero.tsx",
       "title": "<p>Alisson</p>",
       "cta": [],
-      "description": " 💻 Desenvolvedor em tecnologias Microsoft e bancos de dados relacionais. 📚 Sempre aprendendo e explorando novas tecnologias."
+      "description": " 💻 Desenvolvedor em tecnologias Microsoft e bancos de dados relacionais. "
     },
     {
-      "__resolveType": "Footer"
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Faq.tsx",
+        "title": "CONTATO"
+      }
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
