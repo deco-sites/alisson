@@ -16,11 +16,11 @@
         "posts": [
           {
             "tags": [],
-            "title": "Player De Musica em C#",
+            "title": "Player De Musica ",
             "author": "Alisson",
             "date": "12/02/24",
-            "excerpt": "a",
-            "image": "https://data.decoassets.com/alisson/5581df29-f780-4ab6-bbe7-bce9e9af9669/peakpx.jpg"
+            "image": "https://data.decoassets.com/alisson/5581df29-f780-4ab6-bbe7-bce9e9af9669/peakpx.jpg",
+            "excerpt": " Player Desenvolvido Em C#"
           }
         ]
       }
